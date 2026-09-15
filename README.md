@@ -53,13 +53,18 @@ Business Question :
 
 Answer Question :
 
-            Results                                Insight
-        1. Risol Mayo - 7435 Unit - Becoming the product with the highest sales volume
-        2. Kare Ayam  - Rp. 39.217.000 - The highest revenue came from the Vegetables & Side Dishes category
-        3. Kue - 126.104 - Unit Cakes account for the largest sales volume
-        4. Nasi Kuning - 90,15% - Shows the highest rate of stock absorption
-        5. Piscok - 1.233 unit leftovers - Attention needs to be paid to production/stock planning.
-
+            Results                                                Insight
+        1. Risol Mayo - 7435 Unit                  Becoming the product with the highest sales volume
+        2. Kare Ayam  - Rp. 39.217.000             The highest revenue came from the Vegetables & Side                                                        Dishes category
+        3. Kue - 126.104 -                         Unit Cakes account for the largest sales volume
+        4. Nasi Kuning - 90,15% -                  Shows the highest rate of stock absorption
+        5. Piscok - 1.233 unit leftovers -         Attention needs to be paid to production/stock planning.
+        6. Pukis - 361 times                       Pukis is the product most frequently included in                                                           promotional sales campaigns, which may indicate the                                                        need for a specific strategy to accelerate sales.
+        7. Rp27,675,500, approximately 3.04%       Sales through clearance events contribute additionally                                                     to revenue, although their share is relatively small                                                       compared to total turnover.
+        8. Yes. A total of 10,923 units were sold  Clearance sales serve as a mechanism to help reduce                                                        excess inventory and convert a portion of the surplus                                                      stock into revenue.
+        9. Saturday — Rp167,683,000 in revenue and 35,393 units sold  Saturday becoming day with the most performance revenue
+        10. 2024: Rp301.15 million → 2025: Rp309.08 million. In 2026, it reached Rp193.75 million up to August 24.                                     Sales increased from 2024 to 2025. Data for 2026 covers an ongoing period, so it is not yet appropriate to compare it as full-year performance.
+          
 
 
 
