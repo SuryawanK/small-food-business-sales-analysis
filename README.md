@@ -10,30 +10,30 @@ Category: Kue, Nasi, Sayur & Lauk
 
 Dataset :
 
-    Kolom         Data Type       Descriptiom
-Transaction Id      String    Unique Id Transaction
-Date                Date      Period Dates
-Day                 String    Transaction Day
-Month               String    Transaction Month
-Year                Integer   Transaction Year
-Product Id          String    Id Product
-Product Name        String    Name Product
-Category            String    Kue, Nasi, Sayur & Lauk
-Qty                 Integer   number of products produced
-Leftovers           Integer   umber of products remaining when the sale starts
-Clearance           Integer   The number of products from the remainder that were successfully sold on sale
-Distributor Price   Integer   Selling price from the merchant
-Selling Price       Integer   Normal Selling Price
-Clearance Price     Integer   Selling price after the sale
-Sold Normal Qty     Integer   Quantity sold before sale
-Sold Clearance      Integer   Amount sold through sale
-Total Sold          Integer   Total Sold (Normal + Clearance)
-Final_Balance       Integer   Products remaining after the sale
-Revenue             Integer   Revenue from regular sales + clearance sales
-Revenue Clearance   Integer   Income from clearance sales
-COGS                Integer   Payments for merchants
-Total Profit        Integer   Total Normal Revenue + Clearance
-Sell Through Rate   Float     Percentage of quantity successfully sold
+        Kolom         Data Type       Descriptiom
+    Transaction Id      String    Unique Id Transaction
+    Date                Date      Period Dates
+    Day                 String    Transaction Day
+    Month               String    Transaction Month
+    Year                Integer   Transaction Year
+    Product Id          String    Id Product
+    Product Name        String    Name Product
+    Category            String    Kue, Nasi, Sayur & Lauk
+    Qty                 Integer   number of products produced
+    Leftovers           Integer   umber of products remaining when the sale starts
+    Clearance           Integer   The number of products from the remainder that were successfully sold on sale
+    Distributor Price   Integer   Selling price from the merchant
+    Selling Price       Integer   Normal Selling Price
+    Clearance Price     Integer   Selling price after the sale
+    Sold Normal Qty     Integer   Quantity sold before sale
+    Sold Clearance      Integer   Amount sold through sale
+    Total Sold          Integer   Total Sold (Normal + Clearance)
+    Final_Balance       Integer   Products remaining after the sale
+    Revenue             Integer   Revenue from regular sales + clearance sales
+    Revenue Clearance   Integer   Income from clearance sales
+    COGS                Integer   Payments for merchants
+    Total Profit        Integer   Total Normal Revenue + Clearance
+    Sell Through Rate   Float     Percentage of quantity successfully sold
 
 Raw Sales Recoords ---> Data Transformation --> Business Metrics
 
