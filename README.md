@@ -66,6 +66,8 @@ Answer Question :
         10. 2024: Rp301.15 million → 2025: Rp309.08 million. In 2026, it reached Rp193.75 million up to August 24.                                     Sales increased from 2024 to 2025. Data for 2026 covers an ongoing period, so it is not yet appropriate to compare it as full-year performance.
           
 
+Dashboard :
+<img width="917" height="453" alt="Dashboard" src="https://github.com/user-attachments/assets/aeac9765-a6f0-447a-bbb1-d721be49fa13" />
 
 
 
