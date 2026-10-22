@@ -1,14 +1,14 @@
 # small-food-business-sales-analysis
-Data driven analysis of sales and product performance to uncover trends, identify top performing products, evaluate business KPI s and support better decision making
+  Data driven analysis of sales and product performance to uncover trends, identify top performing products, evaluate business KPI s and support better decision making
 
-Dataset : Synthetic/Dummy
-Period  : 24 Agustus 2023 - 24 Agustus 2026
-Rows    : 10.000
-Column  : 23
-Category: Kue, Nasi, Sayur & Lauk
+        Dataset : Synthetic/Dummy
+        Period  : 24 Agustus 2023 - 24 Agustus 2026
+        Rows    : 10.000
+        Column  : 23
+        Category: Kue, Nasi, Sayur & Lauk
 
 
-Dataset :
+# Dataset :
 
         Kolom         Data Type       Descriptiom
     Transaction Id      String    Unique Id Transaction
@@ -38,20 +38,20 @@ Dataset :
 Raw Sales Recoords ---> Data Transformation --> Business Metrics
 
 
-Business Question : 
-1. Which product sold the most over the three-year period?
-2. Which product contributed the highest revenue?
-3. Which category is the most dominant: Cakes, Vegetables & Side Dishes, or Rice?
-4. Which product has the highest sell-through rate?
-5. Which product most frequently has remaining stock?
-6. Which products are most frequently included in sales promotions?\
-7. What is the revenue contribution from sales promotions?
-8. Do sales promotions help reduce excess inventory?
-9. Which day had the highest sales?
-10. How did sales trend over the three years?
+# Business Question : 
+        1. Which product sold the most over the three-year period?
+        2. Which product contributed the highest revenue?
+        3. Which category is the most dominant: Cakes, Vegetables & Side Dishes, or Rice?
+        4. Which product has the highest sell-through rate?
+        5. Which product most frequently has remaining stock?
+        6. Which products are most frequently included in sales promotions?\
+        7. What is the revenue contribution from sales promotions?
+        8. Do sales promotions help reduce excess inventory?
+        9. Which day had the highest sales?
+        10. How did sales trend over the three years?
 
 
-Answer Question :
+# Answer Question :
 
             Results                                                Insight
         1. Risol Mayo - 7435 Unit                  Becoming the product with the highest sales volume
@@ -64,12 +64,7 @@ Answer Question :
         8. Yes. A total of 10,923 units were sold  Clearance sales serve as a mechanism to help reduce                                                        excess inventory and convert a portion of the surplus                                                      stock into revenue.
         9. Saturday — Rp167,683,000 in revenue and 35,393 units sold  Saturday becoming day with the most performance revenue
         10. 2024: Rp301.15 million → 2025: Rp309.08 million. In 2026, it reached Rp193.75 million up to August 24.                                     Sales increased from 2024 to 2025. Data for 2026 covers an ongoing period, so it is not yet appropriate to compare it as full-year performance.
-          
 
-
-# Dashboard
-
-<img width="841" height="494" alt="Dashboard_Sales Product" src="https://github.com/user-attachments/assets/9d663eb5-934e-4604-b645-77625981acfc" />
 
 Dashboard :
 <img width="917" height="453" alt="Dashboard" src="https://github.com/user-attachments/assets/aeac9765-a6f0-447a-bbb1-d721be49fa13" />
