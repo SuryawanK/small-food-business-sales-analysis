@@ -1,4 +1,4 @@
-<img width="841" height="494" alt="Dashboard_Sales Product" src="https://github.com/user-attachments/assets/80e088f8-3253-42fa-88b4-02a2780d3871" /># small-food-business-sales-analysis
+# small-food-business-sales-analysis
   Data driven analysis of sales and product performance to uncover trends, identify top performing products, evaluate business KPI s and support better decision making
 
         Dataset : Synthetic/Dummy
